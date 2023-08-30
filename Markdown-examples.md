@@ -39,7 +39,7 @@ This is a <sup>superscript</sup> text
 >
 > Another quotation
 
-This is a link [Facebook](www.facebook.com)
+This is a link [Facebook](https://www.facebook.com/)
 
 Hello 😄
 
